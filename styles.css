@@ -1,0 +1,27 @@
+.button {
+    background-color: white; 
+    border: none;
+    color: black;
+    padding: 19px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.margin {
+    margin-bottom: 45px;
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+
